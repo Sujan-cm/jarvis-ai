@@ -1,0 +1,9 @@
+assistant:
+  name: Jarvis
+
+ollama:
+  host: http://localhost:11434
+  model: llama3.3
+
+database:
+  path: data/jarvis.db
